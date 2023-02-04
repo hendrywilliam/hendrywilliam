@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my online presence. I'm interested in Web Development using Javascript/Typescript as my main language. All my projects were built from scratch, by myself. I'm still learning to become a Typescript wizard🧙
+Welcome to my online presence. I'm interested in Web Development using Javascript/Typescript as my main language. All my projects were built from scratch, by myself. I'm still learning to become a Typescript wizard🧙.
 
 How to reach me: hendriwilliam29@gmail.com or https://hendri-william.vercel.app/
 <br>Thank you!🙌
